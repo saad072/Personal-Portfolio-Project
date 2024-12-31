@@ -1,12 +1,12 @@
-**Portfolio Website**
+# Portfolio Website
 
 A Responsive and Interactive Portfolio Website
 
-**Project Overview**
+# Project Overview
 
 This project is a sophisticated portfolio website designed to showcase my skills and projects in web development. The website focuses on creating an interactive and responsive user experience, reflecting my expertise in frontend technologies.
 
-**Features**
+# Features
 
 Responsive Design: The website adapts seamlessly across various devices and screen sizes, ensuring a consistent user experience.
 
@@ -16,7 +16,7 @@ Smooth Transitions and Animations: CSS3 is used to create visually appealing tra
 
 Dynamic Features with JavaScript: JavaScript adds interactivity with features like smooth scrolling and an adaptive navigation menu.
 
-**Technologies Used**
+# Technologies Used
 
 HTML5: For structuring the website.
 
